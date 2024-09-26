@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.bg-custom{
+	background:#ad1457  !important; 
+}
+.c-head{
+	background:#e91e63 
+}
+.headline{
+	margin-top:6px;
+}
+.container{
+	position :absolute;
+}
